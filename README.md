@@ -1,7 +1,7 @@
 # Aplicações Cliente-Servidor em C
 
 ## Descrição
-Este projeto consiste no desenvolvimento de duas aplicações em linguagem C: uma Cliente e uma Servidora. A aplicação Cliente é responsável por fornecer seu nome e uma mensagem para a Servidora. A Servidora, por sua vez, recebe a mensagem, a imprime, e retorna seu próprio nome junto com uma mensagem para o Cliente. O Cliente, por fim, imprime a mensagem recebida.
+Desenvolvido para a disciplina de Redes de Computadores, este projeto consiste no desenvolvimento de duas aplicações em linguagem C: uma Cliente e uma Servidora. A aplicação Cliente é responsável por fornecer seu nome e uma mensagem para a Servidora. A Servidora, por sua vez, recebe a mensagem, a imprime, e retorna seu próprio nome junto com uma mensagem para o Cliente. O Cliente, por fim, imprime a mensagem recebida.
 
 ## Funcionalidades
 ### Aplicação Cliente:
